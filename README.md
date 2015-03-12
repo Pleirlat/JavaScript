@@ -1,3 +1,3 @@
 # JavaScript
 
-#EXAMPLE#
+EXAMPLE README
